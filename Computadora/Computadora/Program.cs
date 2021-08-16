@@ -14,7 +14,7 @@ namespace Computadora
         {
             ClsComputadora clscomputadora = new ClsComputadora();
             NClsComputadora nclscomputadora = new NClsComputadora();
-            clscomputadora.procesador = "Intel";
+            clscomputadora.Microprocesador = "Intel";
             clscomputadora.Memoriaram = 8;
         }
     }
